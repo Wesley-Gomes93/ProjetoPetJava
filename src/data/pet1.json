@@ -1,0 +1,17 @@
+{
+  "category": {
+    "id": 1,
+    "name": "string"
+  },
+  "name": "thor",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 27022024,
+      "name": "araujo"
+    }
+  ],
+  "status": "available"
+}
