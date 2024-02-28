@@ -1,18 +1,18 @@
 {
   "id":"06111993",
   "category": {
-    "id": 1,
-    "name": "dog"
+    "id": 2,
+    "name": "Candidato"
   },
-  "name": "Thor",
+  "name": "Wesley Teste Araujo",
   "photoUrls": [
     "string"
   ],
   "tags": [
     {
       "id": 27022024,
-      "name": "araujo"
+      "name": "TestAraujo"
     }
   ],
-  "status": "available"
+  "status": "sold"
 }
